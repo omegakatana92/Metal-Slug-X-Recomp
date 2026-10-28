@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Metal Slug X
+Comment=Native static recompilation of Metal Slug X (Neo Geo)
+Exec=metal-slug-x
+Icon=metal-slug-x
+Categories=Game;
+Terminal=false

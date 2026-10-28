@@ -1,0 +1,14 @@
+# Build + user data that is never committed
+roms/
+roms-src/
+build/
+build-*/
+generated/
+entries*.txt
+dist/steamdeck/*.AppImage
+dist/windows/*.zip
+*.wav
+*.mp4
+docs/screenshots/
+deps/sdl2/SDL2-*/
+!deps/sdl2/README.md

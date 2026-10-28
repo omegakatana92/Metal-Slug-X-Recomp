@@ -1,0 +1,16 @@
+# Metal Slug X headless input script
+# Wait out the MVS BIOS eyecatcher and the attract loop, insert a coin,
+# press start, then move and fire for a while.
+1200-1240 coin
+1500 start
+1700-2400 right
+1800-1820 a
+1900-1920 b
+2100-2120 a
+2300-2320 c
+2500-2520 a
+2700-2720 a
+2900-2920 b
+3000-3300 right
+3100-3120 a
+3300-3320 a
